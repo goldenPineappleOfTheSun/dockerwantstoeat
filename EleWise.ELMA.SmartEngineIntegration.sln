@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EleWise.ELMA.SmartEngineIntegration", "EleWise.ELMA.SmartEngineIntegration.csproj", "{7AD7109F-2250-47E2-96B9-BB4448D53A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD7109F-2250-47E2-96B9-BB4448D53A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD7109F-2250-47E2-96B9-BB4448D53A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD7109F-2250-47E2-96B9-BB4448D53A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD7109F-2250-47E2-96B9-BB4448D53A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0787AD7C-1B5A-47D7-BF42-B624CD2564B6}
+	EndGlobalSection
+EndGlobal
