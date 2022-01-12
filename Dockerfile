@@ -15,4 +15,4 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/aspnet:3.1
 WORKDIR /app
 COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", "PdfToImage.dll"]
+ENTRYPOINT ["dotnet", "EleWise.ELMA.SmartEngineIntegration.dll"]
